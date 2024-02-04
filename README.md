@@ -22,7 +22,7 @@
         <img width="20%" title="Python" src="media/python.png" alt="Python">
     </a>
     <a href="https://www.selenium.dev/">
-        <img width="15%" title="Selenium" src="media/Selenium.png" alt="Selenium">
+        <img width="10%" title="Selenium" src="media/Selenium.png" alt="Selenium">
     </a>
     <a href="https://allurereport.org/">
         <img width="15%" title="Allure" src="media/Allure.svg" alt="Allure Report">
